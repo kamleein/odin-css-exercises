@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-lines {
+    background-color: rgb(248, 128, 148);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second-line {
+    color: #0000ff;
+    font-size: 36px;
+}
+.size-24,
+#bg-light-green {
+    font-size: 24px;
+}
+#bg-light-green {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
